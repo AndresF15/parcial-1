@@ -58,6 +58,11 @@ h1{
     height: 482px;
 }
 
+#img-cauca{
+    width: 550px;
+    height: 482px;
+}
+
 .descripcion p{
     position:relative;
     top: 50%;
